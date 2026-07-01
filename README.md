@@ -55,7 +55,7 @@ python -m pip install ./flash_attn-2.8.3+cu12torch2.6cxx11abiTRUE-cp310-cp310-li
 
 ## Data
 
-The reproduction scripts expect evaluation data under `data_eval/`:
+The reproduction scripts expect evaluation data under `data_eval/`, which can be downloaded from [Google Drive](https://drive.google.com/file/d/17Fyre8lgietQdu4UUtwEk5nCceInd_8w/view?usp=sharing).
 
 ```text
 data_eval/
