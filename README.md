@@ -33,7 +33,7 @@ As illustrated above, ReContext separates evidence organization from answer gene
   <img src="assets/exp.png" alt="Main benchmark comparison across long-context tasks" width="980">
 </p>
 
-`exp.png` summarizes the main 128K-token benchmark across eight long-context tasks and three backbones.  ReContext achieves the best average rank for Qwen3-4B, Qwen3-8B, and Llama3-8B, with consistent gains across QA, multi-choice, narrative, and synthetic long-context settings. The results indicate that recursive evidence replay is useful across both smaller and larger backbones without retraining the model.
+This table summarizes the main 128K-token benchmark across eight long-context tasks and three backbones.  ReContext achieves the best average rank for Qwen3-4B, Qwen3-8B, and Llama3-8B, with consistent gains across QA, multi-choice, narrative, and synthetic long-context settings. The results indicate that recursive evidence replay is useful across both smaller and larger backbones without retraining the model.
 
 ## Setup
 
